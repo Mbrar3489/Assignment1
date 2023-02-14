@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class FirstQuestion {
+public class Factorial {
 
     public static void main(String[] args) {
 

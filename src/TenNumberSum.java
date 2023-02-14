@@ -1,4 +1,4 @@
-public class SecondQuestion {
+public class TenNumberSum {
 
     public static void main(String[] args){
 
