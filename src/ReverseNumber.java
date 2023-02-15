@@ -6,7 +6,7 @@ public class ReverseNumber {
 
         // Reverse the digits of the number enter by user using while loop.
 
-        System.out.print("Enter the number to reverse: ");
+        System.out.print("Enter the Number to reverse: ");
         Scanner sc = new Scanner(System.in);
         int input = sc.nextInt();
         int number=input;

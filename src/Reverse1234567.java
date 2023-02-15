@@ -13,6 +13,6 @@ public class Reverse1234567 {
             number=number/10;
 
         }
-        System.out.println("Reverse of 1234567 is :"+reverse);
+        System.out.println("Reverse of 1234567 is :" +reverse);
     }
 }

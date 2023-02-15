@@ -24,7 +24,7 @@ public static void main(String[] args)
         }
         num--;
     }
-    System.out.println("Sum of Odd numbers until "+input+ " is :"+Odd);
+    System.out.println("Sum of Odd numbers until "+input+ " is :" +Odd);
     System.out.println("Sum of Even numbers until "+input+ " is: "+Even);
 }
 

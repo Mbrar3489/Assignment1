@@ -11,7 +11,7 @@ public class TenNumberSum {
            number++;
 
         }
-        System.out.println("Sum of first ten natural numbers is: "+sum);
+        System.out.println("Sum of first Ten natural numbers is: "+sum);
 
     }
 }

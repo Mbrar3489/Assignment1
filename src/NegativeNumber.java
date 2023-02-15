@@ -6,7 +6,7 @@ public class NegativeNumber {
         // Program to find the sum of all non-negative numbers entered ny user.
 
         Scanner sc = new Scanner(System.in);
-        System.out.print("Enter the number: ");
+        System.out.print("Enter the Number: ");
         int number=sc.nextInt();
         int sum=0;
         while(number>=0){
