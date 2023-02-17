@@ -1,7 +1,7 @@
 public class Pattern {
 
     public static void main(String[] args)
-            // Program to print * pattern using while loop.
+            // Program to Print * pattern using while loop.
     {
         int i=0;
 
