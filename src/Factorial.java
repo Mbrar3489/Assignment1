@@ -11,7 +11,7 @@ public class Factorial {
         int fact = sc.nextInt();
         int number1=fact;
         int number2=1;
-        whil(number1>0){
+        while(number1>0){
 
             number2 = (number1*number2);
             number1--;
