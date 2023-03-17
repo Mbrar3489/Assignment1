@@ -6,7 +6,7 @@ public class Factorial {
 
      // Find the factorial of any number enter by user using while loop.
 
-        System.out.print("Enter the Number: ");
+        System.out.print("Enter The Number: ");
         Scanner sc = new Scanner(System.in);
         int fact = sc.nextInt();
         int number1=fact;
